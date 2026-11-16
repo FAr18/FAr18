@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Stats
-[![FAr18's GitHub stats](https://github-readme-stats.vercel.app/api?username=FAr18&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![FAr18's GitHub stats](https://github-stats-extended.vercel.app/api?username=FAr18)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **FAr18/FAr18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
